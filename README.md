@@ -4,12 +4,11 @@
 
 Tabela de conteúdos
 =================
-<!--ts-->
-   * [Sobre](#Sobre)
-   * [Instalação e modo de usar](#instalacao)
-   * [Como o programa funciona usar](#como-usar)
-   * [JavaDoc](#JavaDoc)
-<!--te-->
+
+   * [Sobre]
+   * [Instalação e modo de usar]
+   * [Como o programa funciona usar]
+   * [JavaDoc]
 
 <h3> Sobre </h3>
 
@@ -79,5 +78,4 @@ Os dados gravados no Array são transferidos para a String "second" e posteriorm
 Especifico quais valores (nomes) eu quero pesquisar na minha relação de alunos. Se a pessoa estiver matriculada, a aplicação retorna com o número do índice em que está armazenado o nome. Caso não esteja matriculado, retorna uma mensagem informando que não está matriculado.
 
 <h3> JavaDoc</h3>
-
 É possível acessar o JavaDoc gerado pelo IntelliJ, salvo na pasta  <a href="https://github.com/vanderleik/Projeto-Java/tree/master/JavaDoc">JavaDoc</a>.
