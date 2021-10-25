@@ -1,4 +1,4 @@
-<h1 align="center"> Projeto-Java</h1>
+<h1 align="center"> Projeto-Java - versão 1.0</h1>
 
 <p align="center">Meu primeiro projeto Java</p>
 
@@ -9,6 +9,8 @@ Tabela de conteúdos
    * [Instalação e modo de usar]
    * [Como o programa funciona usar]
    * [JavaDoc]
+
+<p style="color:red">Este projeto está em processo de revisão (refatoração)</p>
 
 <h3> Sobre </h3>
 
